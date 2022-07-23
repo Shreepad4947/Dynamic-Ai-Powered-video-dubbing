@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "video-dubs",
+  "private_key_id": "47b4b5c78cd522ab51e015a7fe4bbeebff0e1497",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiXkJMfXS4is9q\nfSqgIMRO1G+eNRRouLW12OAtMq6HyYnXRObhz+rtTsw7bZU+ztdDpHYCg45SFEXM\nHnCu6wdrRDz6YBK3VjMeHOY+HOB8JxZsJMkYeIQffkHfGif8r12XLRFjv3O+/b7p\n5k7sZ/Bs0Cv5UmmPRfbo7oBZ/fo6PUZRjFOj+V/2wTd0qovpab5lp41fYfB4M2Bq\nnQ6m6FvY9SihMtFnIN1uRuvuxgWFgN3NAnavr6RrRQsoZCqPIrceE/uXpmSqfgH/\nzRxv6P5g9ao0oQ+dyNjSs1THFKB7qsHNobx99A35GywX8FZdoZwazfo6guUfiRXq\neeLRVT8RAgMBAAECggEAGZIAnO0xAZMSwTF/EgK3B7ca8O5pDWjxbPb/rv6JT+ck\nZxt5xNwqoj7DmSRT2bVXX1a6IwE226RHrbKpilKHM5RmigOxTuArYrWoaOXBUKwT\nMurEJK9uF0uZ8hm7bGbttU4qq+vNvalWdJ2Jll90FJ7gHf6lkyOwk9RjsEh4LM2T\nMulkooCEvjBYw4z/O1sPgAMY11eslLJgWUv9gYynnMP3XXkViYKfgLmEH8yqKu4/\nmE2Ez6Jn8h6GEDiGrZMZ6NkT5B1GgYEcwDubQ3kJxJi9Upnp+a1GF/JBGfP9RGTE\nvlDpmX2a6jb7dGEIZe3Z84aQDQuZByuT5x+sLBxLJQKBgQDaptDLPgGPM1nVCNl7\n4I3t0FZZHqUt7sM5f/tXYHCgL07dy08YLCRRBtR2wupfQyXqy3vIA9FlAWN4aUXq\nl0NTY7qohyPtejT9xyIrWxZauPN4I5sa+Zajvws2imz2ZJUr+pjZbLlfi+8HrkOc\nWdyzB699MP4XGzdPJLEwj4EGFwKBgQC+GkkMuqtQgpbcL3/vT0T2LxxZ0doBZ8Fu\n1LJdOV4IRW2Juh95xH6rOgGN96BegwiDYAzxRAi447sGCnt3DhPWbATTDB1/rU5L\nGiAaQPD35ieAovAp4WfdF53femoFgenT9K1c8XNSuzUt1EtNhhthI/kR61dcxLt2\nsEPKTCLFFwKBgBzVFn9Wg9ogSV5ANn2RVOXhLSG/WsS90VyJtdkFzJQy6NFyd9GW\nMIvGvMmUVleNgTh+8KmlZz1Me5NrPl7651PduMV0XJZ6IPa+BZF2B3KbJO/YsiFS\nfDzHenEMu+WZydnsx68UGTWyPCjlH+FEMEgjYU6+4SKm4ho7mmnu4nKtAoGAC4BR\nnRiKFtPfxrCE//h+xpoxD+oXU3BwjoEFzYgT/VId/3AoSVivBTL8NxedNzqcQD6G\nae5gzLbScNofgCN05cshO5eHDVtx2i9Zc90r9wOQrkKtXwtJGmI8ZfHlCjJC8FTk\nTDQ7cuzqmbw3Vhhf/a+MeR4Q6gbpBJRDdbDHhb8CgYBAKBuesnbRJZpQihfhYrjO\na7m0NCKPslsXjOCyWekeFyp88D4vtaypZJDozGPADUK+RmhVg09LslObJM7qyEB4\nOYZ/M9mGGIhHI21ZaoozeD7x/JnMG4NJSA+L/pE/rt9QmNu/fj9/7fZACT8gB6g4\n1PbolvBr4q+OS2wap2z67g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "videodubs@video-dubs.iam.gserviceaccount.com",
+  "client_id": "108425995959481069224",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/videodubs%40video-dubs.iam.gserviceaccount.com"
+}
